@@ -12,7 +12,7 @@ public class Calculator {
     public Calculator() {
         frame = new JFrame("Calculator");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(400, 500);
+        frame.setSize(400, 600);
         frame.setLayout(new BorderLayout());
 
         textField = new JTextField();
