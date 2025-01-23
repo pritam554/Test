@@ -15,6 +15,7 @@ public class Calculator {
         frame.setSize(400, 600);
         frame.setLayout(new BorderLayout());
 		char c = 'abc';
+        int a =30;
 
         textField = new JTextField();
         textField.setFont(new Font("Arial", Font.PLAIN, 60));
